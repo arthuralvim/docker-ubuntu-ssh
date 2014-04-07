@@ -19,7 +19,7 @@ Run
 
 For running this image you just need to:
 
-    docker run -d -p 2222:22 arthur/docker-ubuntu-ssh
+    docker run -d -p 2222:22 arthuralvim/docker-ubuntu-ssh
 
 After that you can ssh into it:
 
